@@ -1,3 +1,4 @@
+<!-- Updated README / Profile HTML tailored to your skills (Cloud removed, C++ removed, Java added) -->
 <img height="300" width="1240" src="space.jpg" alt="Full Stack Developer Banner">
 
 <h1 align="center">Hello there, I am Ritvik Katakam <img src="GIF/Hi.gif" width="40px" /> </h1>
@@ -6,27 +7,25 @@
 <br/>
 <br/>
 
-
-
 <table>
   <tr>
-    <!-- Left side: Bio -->
     <td width="65%" valign="top">
       
   <h3>👩‍💻 About Me</h3>
 
-- 🎓 I’m a passionate **Backend Developer**, crafting seamless experiences with **Python** and **Java**. 
-- 💻 Building **dynamic, AI applications** with both front-end and back-end expertise.  
-- 🌱 Currently diving into **Generative AI**, experimenting with **LangChain**, and exploring the **future of tech**.  
-- ⚡ Ask me about **full-stack development, AI, or anything tech**—I’m always up for a conversation!  
-- ✨ *Fun fact:* I believe in **consistency** and the power of **small, steady progress**.  
+- 🎓 I’m a passionate **Backend Developer**, building reliable systems using **Python** and **Java**.  
+- 💻 I work on **AI-powered applications** — computer vision, NLP, model training, and backend deployment.  
+- 🌱 Currently exploring **Generative AI**, prompt engineering, and LangChain-based workflows.  
+- 🔍 Experience in **Machine Learning**, **Deep Learning**, and **Face Recognition** projects.  
+- 🛠 Skilled in databases: **MySQL / PostgreSQL / MongoDB**, and analytics with **Power BI**.  
+- ⚙️ Strong in **Linux**, shell scripting, Git, and backend frameworks (Flask / FastAPI).  
+- ✨ *Fun fact:* I believe in consistency and the power of steady progress.  
 - 🔥 *Motto:* *“Don’t count the days—earn the right to say they counted.”*
 
     </td>
 
-    <!-- Right side: Image -->
     <td align="center" width="30%">
-      <img src="/tr.png" width="400" height="300" style="border-radius: 50%; box-shadow: 0 0 12px rgba(0,0,0,0.2);" alt="Priyanka Avatar" />
+      <img src="/tr.png" width="400" height="300" style="border-radius: 50%; box-shadow: 0 0 12px rgba(0,0,0,0.2);" alt="Ritvik Avatar" />
     </td>
   </tr>
 </table>
@@ -35,7 +34,10 @@
 ## 🚀 Portfolio: <a href="https://rk-s-portfolio-63xi.vercel.app/">Visit My Portfolio</a>
 
 ## 🔗 Let's Connect:
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/saimanideepnagulapati/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manideep.nagulapati@gmail.com) [![MyAnimeList](https://img.shields.io/badge/MyAnimeList-2E51A2?logo=myanimelist&logoColor=white)](https://myanimelist.net/profile/Itachi_510) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/895242106099093514) [![Leetcode](https://img.shields.io/badge/-LeetCode-ff8c00?style=flat&labelColor=ff8c00&logo=LeetCode&logoColor=white)](https://leetcode.com/u/Turbo_30/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)]()
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)]()
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)]()
+[![Leetcode](https://img.shields.io/badge/-LeetCode-ff8c00?style=flat&labelColor=ff8c00&logo=LeetCode&logoColor=white)]()
 
 
 ---
@@ -43,94 +45,35 @@
 # 💻 Tech <span style="color:#FF9100">Stack</span>:
 
 ### **Frontend:**
- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![FIGMA](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![FIGMA](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ### **Backend:**
-![Node](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white) ![Express](https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=BLACK) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Node](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### **Programming Languages:**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%23007ACC.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### **AI/ML Tools/Libraries:**
-![LangChain](https://img.shields.io/badge/LangChain-00ADD8?style=for-the-badge&logo=langchain&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![Gemini AI](https://img.shields.io/badge/GeminiAI-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### **DevOps & Cloud:**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-### **Operating Systems:**
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
----
-
-## My <span style="color:#FF9100">Background</span>:
-
-```python
-class FullStackDeveloper:
-    def __init__(self):
-        self.name = "Sai Manideep Nagulapati"
-        self.current_focus = "Full Stack Development & AI Integration"
-        self.interests = [
-            "Web Development",
-            "AI/ML Research",
-            "Prompt Engineering",
-            "Reading Self-Development Books",
-            "Pushing limits in the gym",
-            "Anime & Sci-Fi",
-            "Space Exploration",
-            "Music & Art"
-        ]
-    
-    def hometown(self):
-        return "Hyderabad, Telangana, India"
-    
-    def goals(self):
-        return [
-            "Build impactful and scalable applications",
-            "Master AI/ML tools and frameworks",
-            "Contribute to open-source projects",
-            "Explore ethical AI and responsible technology"
-        ]
-
-me = FullStackDeveloper()
-
-```
-
-
-
-## 📊 GitHub <span style="color:#FF9100">Statistics</span>:
-
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=sai-manideep-exe&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
-    <br/>
-    <br/>
-
-    
-    
-<img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sai-manideep-exe&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
-<br/>
-
-
-<p align="center>
- 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sai-manideep-exe&theme=highcontrast&hide_border=true&border_radius=3.3" alt="GitHub Streak" /> </a>
-</p>
-
- </p>
-
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sai-manideep-exe&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=sai-manideep-exe&icon=0&color=0)](https://visitcount.itsvg.in)  
-
-
-
-
-
-## 💡 I believe great things start with a conversation  
-Let’s connect and see where ideas take us.
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-%23007ACC?style=for-the-badge&logo=opencv&logoColor=white)
+![Scikit-Learn](https://img.shields.io/bad)
