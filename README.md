@@ -1,12 +1,12 @@
-🌟 Hi, I'm Ritvik Katakam!
+🌟 Hi, I'm Ritvik Katakam! ]👋
 Aspiring Software Developer | AI & Machine Learning Enthusiast
-🚀 About Me
 
+
+🚀 About Me
 I'm an enthusiastic graduate passionate about AI/ML, software development, and building projects that solve real-world problems. I love exploring cutting-edge tech, learning new tools every day, and combining creativity with code to build impactful solutions.
 
-🛰️ I’m currently working on
-
-AI/ML projects
+🛰️ I’m currently working on my
+AI/ML projects seekiung for software development position
 
 Intelligent automation tools
 
@@ -63,4 +63,3 @@ TensorFlow | Keras | Scikit-learn | NLP | Computer Vision | Deep Learning
 
 Developer Tools
 Git | GitHub | VS Code | Jupyter | Flask | Postman
-
