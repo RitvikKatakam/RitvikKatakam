@@ -53,3 +53,14 @@ People say I’m a funny guy — I bring good vibes along with good code 😄
 LinkedIn: Add your link here
 
 Portfolio: https://rk-s-portfolio.vercel.app/
+
+🛠️ Tech Stack
+Languages & Tools
+Python | SQL | JavaScript | Power BI | HTML | CSS | Linux | Shell Scripting
+
+AI & ML
+TensorFlow | Keras | Scikit-learn | NLP | Computer Vision | Deep Learning
+
+Developer Tools
+Git | GitHub | VS Code | Jupyter | Flask | Postman
+
